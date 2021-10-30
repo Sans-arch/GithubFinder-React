@@ -35,7 +35,7 @@ export default function SearchBox() {
           type="submit"
           onClick={handleSearchName}
         >
-          Buscar
+          Find
         </button>
       </form>
 
